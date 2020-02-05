@@ -16,3 +16,9 @@
 [submodule "summit_xl_sim"]
 	path = summit_xl_sim
 	url = https://github.com/summitx/summit_xl_sim.git
+[submodule "summit_x_robot"]
+	path = summit_x_robot
+	url = https://github.com/summitx/summit_x_robot.git
+[submodule "summit_x_common"]
+	path = summit_x_common
+	url = https://github.com/summitx/summit_x_common.git
