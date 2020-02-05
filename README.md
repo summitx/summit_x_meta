@@ -4,6 +4,8 @@
 ### Clone repo and submodules
 
     $ cd /path/to/catkin/ws
+    $ mkdir src
+    $ cd src
     $ git clone --recurse-submodules git@github.com:summitx/summit_x_meta.git
 
 ### Install dependencies
